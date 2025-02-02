@@ -3,6 +3,7 @@ EngPrompt - AI-Optimized Multilingual Translation for GitHub Copilot 🚀
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/Metonya.engprompt?color=blue&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Metonya.engprompt)
 
 </div>
 
@@ -38,7 +39,7 @@ Before we embark on this magical journey, make sure you have:
 - Intelligent multilingual translation (automatically detects desired language)
 - Checklist generation in English
 
-![Engprompt Demo](https://raw.githubusercontent.com/Metonya/engprompt/main/images/engprompt.png)
+![Engprompt Demo](https://raw.githubusercontent.com/Metonya/EngPrompt/main/images/engprompt.png)
 
 **Multilingual Translation:**
 Simply express your desired target language naturally in your prompt, and AI will understand!
@@ -52,7 +53,7 @@ Examples:
 The AI automatically detects the target language from your natural request - whether you mention it at the end (tr, Türkçe),
 or include it naturally in your sentence. No specific format is required!
 
-![Translation Demo](https://raw.githubusercontent.com/Metonya/engprompt/main/images/translate.png)
+![Translation Demo](https://raw.githubusercontent.com/Metonya/EngPrompt/main/images/translate.png)
 
 ### 📋 Intelligent Checklists
 - Transforms requirements into structured task lists
@@ -60,7 +61,7 @@ or include it naturally in your sentence. No specific format is required!
 - Organizes complex processes into manageable steps
 - Perfect for project planning and documentation
 
-![Checklist Demo](https://raw.githubusercontent.com/Metonya/engprompt/main/images/checklist.png)
+![Checklist Demo](https://raw.githubusercontent.com/Metonya/EngPrompt/main/images/checklist.png)
 
 ## ⚡ Quick Commands
 

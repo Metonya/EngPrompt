@@ -1,8 +1,9 @@
 {
   "name": "engprompt",
+  "icon": "images/logo.png",
   "displayName": "EngPrompt",
   "description": "Transform any language into AI-optimized English prompts for enhanced GitHub Copilot and AI interactions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Metonya",
   "repository": {
     "type": "git",
